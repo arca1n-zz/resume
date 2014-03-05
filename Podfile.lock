@@ -18,11 +18,14 @@ PODS:
   - AFNetworking/UIKit (2.2.0):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
+  - DCTextEngine (0.1.0)
 
 DEPENDENCIES:
   - AFNetworking (= 2.2.0)
+  - DCTextEngine (= 0.1.0)
 
 SPEC CHECKSUMS:
   AFNetworking: e8cfd8f3fe3bfe19124a0cc63f4d45752d892a56
+  DCTextEngine: cc69a03f97295872d0b33de2ecb13964b7bb7f2f
 
 COCOAPODS: 0.29.0
